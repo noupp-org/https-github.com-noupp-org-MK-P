@@ -1,0 +1,82 @@
+<resources>
+    <string name="profil_image_description">Deskripsi gambar profil</string>
+    <string name="app_name">MK-P</string>
+
+    <string name="food_name">MK-P</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="about">about</string>
+    <string-array name="data_name">
+        <item>Apem Kesesi</item>
+        <item>Garang Asem</item>
+        <item>Glundung</item>
+        <item>Growol</item>
+        <item>Kripik Tahu</item>
+        <item>Kue Lumpang</item>
+        <item>Lopis</item>
+        <item>Megono</item>
+        <item>Onggol</item>
+        <item>Tauto</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Apem Kasesi adalah kudapan tradisional Indonesia yang berasal dari Jawa Tengah,Kabupaten Pekalongan Kudapan ini memiliki tekstur yang lembut, kenyal, dan khas dengan aroma kelapa yang harum. Apem Kasesi terbuat dari campuran tepung beras, santan kelapa, kelapa parut, gula kelapa, dan daun pandan yang memberikan rasa yang unik dan lezat,Proses pembuatan Apem Kasesi melibatkan adonan yang dicampur dengan baik dan dibiarkan mengembang sebelum dikukus hingga matang. Setelah matang, Apem Kasesi biasanya memiliki warna yang menarik dan disajikan dalam potongan-potongan kecil atau sesuai selera.Kelezatan Apem Kasesi tidak hanya terletak pada rasanya yang manis dan lembut, tetapi juga pada kehangatan tradisi yang terasa setiap kali menikmatinya. Kudapan ini sering dihidangkan dalam acara-acara khusus, perayaan, atau sebagai camilan menyenangkan di tengah hari Apem Kasesi tidak hanya menjadi sajian lezat untuk dinikmati, tetapi juga menyimpan jejak budaya dan kekayaan kuliner Indonesia yang patut dijaga dan dilestarikan.</item>
+        <item>Garang Asem adalah hidangan khas Jawa yang memikat lidah dengan perpaduan cita rasa pedas, asam, dan gurih. Dikenal sebagai masakan tradisional Indonesia, Garang Asem biasanya terbuat dari potongan daging ayam atau daging sapi yang dimasak dengan bumbu rempah-rempah khas.
+
+Bumbu-bumbu yang digunakan dalam Garang Asem mencakup kencur, kunyit, lengkuas, serai, daun salam, daun jeruk, dan terasi. Asem Jawa, atau asam yang berasal dari buah asem yang memberikan cita rasa segar dan asam khas, turut memberikan sentuhan khas pada hidangan ini.
+
+Proses memasak Garang Asem melibatkan pencampuran bumbu dengan daging dan direbus hingga bumbu meresap ke dalam daging. Hasilnya adalah hidangan yang menggoda selera dengan rasa yang seimbang antara pedas, asam, dan gurih. Garang Asem sering dihidangkan dengan nasi putih, serta pelengkap seperti telur rebus, tahu, dan tempe goreng.
+
+Garang Asem bukan hanya sekadar hidangan lezat, tetapi juga mencerminkan keanekaragaman kuliner Indonesia yang kaya akan rempah-rempah dan rasa. Sajian ini sering dijumpai dalam acara-acara keluarga, perayaan, atau sebagai sajian istimewa di meja makan.</item>
+        <item>Glundung adalah salah satu kudapan tradisional Jawa yang menggoda selera dengan kelezatan dan keunikan bentuknya. Kudapan ini terkenal karena adonan luar yang renyah dan isian manis yang melimpah di bagian dalamnya. Glundung biasanya terbuat dari adonan tepung ketan yang digoreng hingga berwarna kecokelatan.
+
+Proses pembuatan Glundung melibatkan penutupan adonan ketan di sekitar isian yang terdiri dari kelapa parut yang dicampur dengan gula merah cair atau kelapa parut manis. Setelah itu, Glundung digulung dan digoreng hingga matang. Akibatnya, kudapan ini memiliki lapisan luar yang garing dan bercita rasa gurih, sementara isian gula merah memberikan sentuhan manis yang khas.
+
+Glundung sering dihidangkan dalam berbagai acara, seperti upacara adat, pernikahan, atau sebagai camilan sehari-hari. Bentuknya yang unik dan rasa yang lezat membuat Glundung menjadi favorit di kalangan pecinta kudapan tradisional Indonesia.
+
+Sajian ini juga mencerminkan warisan kuliner Indonesia yang kaya dan terus dilestarikan sebagai bagian dari keanekaragaman budaya dan kuliner nusantara. Glundung menjadi bukti bahwa kelezatan kudapan tradisional dapat melebur dalam sebuah pengalaman makan yang memuaskan.</item>
+        <item>Growol adalah jajanan khas Pekalongan yang terbuat dari singkong dan gula jawa. Makanan ini disebut sebagai makanan yang sehat karena tidak memiliki kadar gula jawa yang tidak terlalu banyak. Biasanya, makanan ini biasa dijadikan alternatf kalau harga beras melambung tinggi. Tapi, kalau kalian pengen nyobain sekarang, bisa juga, kok.
+
+Sama seperti jajanan jadul lain seperti Ongol-Ongol, Growol juga biasa dijual di gerai makanan yang menjual jajanan tradisional ataupun di tempat penjual-penjual sarapan pagi. </item>
+        <item> kripik tahu yang memiliki ciri khas dari daerah Pekalongan, Jawa Tengah, Indonesia. Meskipun kripik tahu umumnya memiliki ciri rasa gurih dan renyah, Kripik Tahu Pekalongan mungkin memiliki keunikan tertentu dalam bumbu atau metode pembuatannya yang membuatnya berbeda dari kripik tahu di tempat lain.
+
+Beberapa ciri khas Kripik Tahu Pekalongan mungkin melibatkan penggunaan bumbu atau rempah-rempah lokal, penggunaan tahu yang diolah dengan metode khusus, atau variasi rasa yang unik untuk mencerminkan kekayaan kuliner daerah Pekalongan.
+
+Untuk mendapatkan pengalaman yang lebih mendalam dengan Kripik Tahu Pekalongan, disarankan untuk mencoba langsung dari produsen atau penjual lokal di Pekalongan atau daerah sekitarnya. Mereka mungkin mempertahankan resep tradisional yang menjadi ciri khas kripik tahu di daerah tersebut.</item>
+        <item>Kue lumpang merupakan salah satu kue basah yang banyak diminati para wisatawan. Biasanya jajanan khas Pekalongan ini cocok digunakan sebagai makanan pembuka.
+
+Dijuluki kue lumpang karena bentuknya menyerupai lumpang dan warnanya cokelat. Ciri khas jajanan tradisional Pekalongan yang satu ini adalah di atas kuenya diberi taburan areh atau santan yang dimasak sampai mengental yang dicampur dengan daun bawang.</item>
+        <item> sejenis makanan ringan atau kudapan tradisional yang terbuat dari bahan-bahan sederhana seperti ketan, kelapa parut, gula kelapa, dan kacang tanah. Lopis biasanya dibungkus menggunakan daun pisang atau daun jati yang dikukus, memberikan aroma alami dan kesegaran.
+
+Proses pembuatannya melibatkan ketan yang dimasak dan dicampur dengan kelapa parut yang telah dicampur dengan gula kelapa. Adonan ini kemudian dibungkus dalam daun dan dikukus hingga matang. Setelah matang, Lopis Pekalongan sering dihidangkan dengan taburan kacang tanah yang telah digoreng sebagai topping.
+
+Rasa Lopis Pekalongan umumnya manis dan gurih, dengan kombinasi antara ketan yang kenyal, kelapa parut yang lembut, dan gula kelapa yang memberikan kelezatan khas. Makanan ini tidak hanya enak, tetapi juga mencerminkan keanekaragaman kuliner Indonesia yang kaya dan beragam. Jika Anda berkesempatan, mencoba Lopis Pekalongan secara langsung akan memberikan pengalaman kuliner yang autentik.</item>
+        <item>Megono adalah hidangan tradisional Jawa yang terbuat dari daun singkong yang diiris halus dan direbus bersama kelapa parut. Proses memasaknya melibatkan pemberian bumbu-bumbu rempah seperti lengkuas, daun salam, serai, dan bumbu lainnya untuk memberikan cita rasa yang khas.
+
+Satu elemen yang membedakan Megono adalah penggunaan bahan utamanya, yaitu daun singkong, yang diolah menjadi hidangan yang lezat dan gurih. Beberapa resep Megono juga dapat mencakup daging atau ikan sebagai tambahan protein.
+
+Megono sering kali dihidangkan sebagai lauk pauk dalam hidangan utama bersama nasi putih. Kelezatan Megono tidak hanya terletak pada rasa dan aroma yang dihasilkan oleh rempah-rempah, tetapi juga pada tekstur daun singkong yang empuk dan kelapa parut yang memberikan rasa gurih.
+
+Seperti banyak masakan tradisional, Megono mencerminkan kekayaan kuliner Indonesia yang terhubung dengan budaya dan warisan lokal. Jika Anda berkesempatan untuk mencicipi Megono Pekalongan, ini akan menjadi pengalaman kuliner yang otentik dan unik.</item>
+        <item>Ongol-Ongol adalah jajanan khas Pekalongan yang bisa dijumpai di berbagai gerai yang menjual jajanan tradisional, ataupun penjual-penjual sarapan pagi. Makanan ini terbuat dari tepung sagu atau tepung pati yang dicampur dengan gula jawa. Makanan ini memiliki warna cokelat seperti Jenang atau Wajik pada versi originalnya. Namun, saat ini sudah banyak sekali varian Ongol-Ongol yang memiliki berbagai macam bentuk dan warna</item>
+        <item>Tauto berasal dari nama makanan Tiongkok yang bernama Caudo yakni sebuah makanan yang berkuah, yang pertama kali dipopulerkan di wilayah Semarang. Lambat laun orang pribumi khususnya Jawa memberikan sebutan Soto yang berasal dari homofon Caudo. Kalau di Makasar makanan ini disebut Coto, sedangkan di Pekalongan disebut Tauto.
+
+Awalnya makanan ini dikonsumsi oleh peranakan Tionghoa-Indonesia, tetapi seiring dengan berjalannya waktu, orang pribumi pun menjadikan makanan ini menjadi bagian dari kuliner mereka. Tak terkecuali masyarakat Pekalongan yang menikmati dan menyesuaikan olahan Caudo ini dengan bumbu-bumbu khusus agar pas dengan lidah mereka.
+
+Awalnya orang-orang Jawa pada saat itu yang menjadi para pembantu bagi penjual Caudo/Soto ikut keliling memikul dagangan. Seiring berkembangnya zaman karena tidak ada generasi keturunan Tionghoa yang mau meneruskan usaha ini, akhirnya warga pribumi berinisiatif untuk meneruskan usaha kuliner yang khas ini.
+
+Kekhasan Tauto yang diracik pribumi Pekalongan adalah dengan menggunakan mie putih atau soun, kemudian ditambah bumbu sambal goreng (tauco) yang berbahan dasar kedelai serta menggunakan bahan daging kerbau bukan daging sapi.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/apem_kesesi</item>
+        <item>@drawable/garang_asem</item>
+        <item>@drawable/glundung</item>
+        <item>@drawable/growol</item>
+        <item>@drawable/kripik_tahu</item>
+        <item>@drawable/kue_lumpang</item>
+        <item>@drawable/lopis</item>
+        <item>@drawable/megono</item>
+        <item>@drawable/onggol</item>
+        <item>@drawable/tauto</item>
+    </integer-array>
+</resources>
